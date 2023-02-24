@@ -1,6 +1,7 @@
 # StackVM
 
 ## Example 1
+
 ```c
   memory[0x3000] = 0x10000001; // mov r0, #1
   memory[0x3001] = 0x10010002; // mov r1, #2
@@ -9,6 +10,7 @@
 ```
 
 ## Example 2
+
 ```c
   memory[0x3000] = 0x10000001; // mov r0, #1
   memory[0x3001] = 0x10010002; // mov r1, #2
