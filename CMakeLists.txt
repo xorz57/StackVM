@@ -3,4 +3,4 @@ project(StackVM C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(StackVM src/main.c)
+add_executable(StackVM src/main.c src/signal_handler.c src/execute.c src/execute.h)
