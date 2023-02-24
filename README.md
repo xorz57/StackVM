@@ -2,6 +2,15 @@
 
 A Virtual Stack Machine written in C
 
+## Build
+
+```bash
+mkdir build
+cd build
+cmake ..
+cmake --build .
+```
+
 ## Example 1
 
 ```c
