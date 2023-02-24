@@ -1,5 +1,7 @@
 # StackVM
 
+A Virtual Stack Machine written in C
+
 ## Example 1
 
 ```c
