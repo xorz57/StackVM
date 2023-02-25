@@ -1,6 +1,6 @@
 # StackVM
 
-A Virtual Stack Machine written in C
+Virtual Stack Machine written in C
 
 ## Example 1
 
