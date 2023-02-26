@@ -1,6 +1,6 @@
 # StackVM
 
-A Virtual Stack Machine written in C
+Virtual Stack Machine written in C
 
 ## Example 1
 
@@ -21,4 +21,13 @@ A Virtual Stack Machine written in C
   memory[0x3004] = 0x50000000; // pop r0
   memory[0x3005] = 0x50010000; // pop r1
   memory[0x3006] = 0xff000000; // halt
+```
+
+## How to Build using [CMake](https://cmake.org/)
+
+```bash
+mkdir build
+cd build
+cmake ..
+cmake --build .
 ```
