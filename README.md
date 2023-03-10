@@ -1,5 +1,7 @@
 # StackVM
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=xorz57_StackVM&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=xorz57_StackVM)
+
 Virtual Stack Machine written in C
 
 ## Example 1
