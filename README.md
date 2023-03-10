@@ -26,8 +26,7 @@ Virtual Stack Machine written in C
 ## How to Build using [CMake](https://cmake.org/)
 
 ```bash
-mkdir build
-cd build
-cmake ..
-cmake --build .
+cmake -B build
+cmake --build build --config Release
+ctest -C Release
 ```
