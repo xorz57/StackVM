@@ -1,6 +1,11 @@
 # StackVM
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=xorz57_StackVM&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=xorz57_StackVM)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=xorz57_StackVM&metric=bugs)](https://sonarcloud.io/summary/new_code?id=xorz57_StackVM)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=xorz57_StackVM&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=xorz57_StackVM)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=xorz57_StackVM&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=xorz57_StackVM)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=xorz57_StackVM&metric=coverage)](https://sonarcloud.io/summary/new_code?id=xorz57_StackVM)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=xorz57_StackVM&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=xorz57_StackVM)
 
 Virtual Stack Machine written in C
 
