@@ -99,7 +99,6 @@ void execute(uint32_t instruction) {
             running = false;
             break;
         default:
-            // TODO
             break;
     }
 }
